@@ -71,7 +71,7 @@ The ragbench subset [hagrid](https://huggingface.co/datasets/rungalileo/ragbench
 
 ## Evaluation 🔎
 
-There is one scripts under `evaluation/`:
+There is one script under `evaluation/`:
 
 [1] `retriever_eval.py` evaluates success of ground truth retrieval. Run evaluation with:
 
